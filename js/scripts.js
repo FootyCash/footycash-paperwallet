@@ -30,7 +30,7 @@ function generateOne(index, colorOption, numToGenerate) {
   }
   var version = {
     private: 0x99,
-    public: 0x1b
+    public: 0x23
   }
   var bytes = secureRandom.randomBuffer(32)
   var key = new CoinKey(bytes, version)
