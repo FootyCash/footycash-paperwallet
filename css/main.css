@@ -116,8 +116,8 @@ html, body {
 
 
 .btn {
-  border-color: #ff0000;
-  background-color: #ff0000;
+  border-color: #5cb85c;
+  background-color: #5cb85c;
   text-shadow: 0 0.075em 0.075em rgba(0,0,0,0.5);
   display: inline-block;
   position: relative;
@@ -150,12 +150,12 @@ html, body {
 .btn-green {
   color: #fff;
   background-color: #5cb85c;
-  border-color: #4cae4c;
+  border-color: #5cb85c;
 }
 
 .info {
   text-align: center;
-  background-color: #800000;
+  background-color: #52a05b;
   color: #FFF;
   font-size: 16px;
   font-weight: 300;
@@ -347,7 +347,7 @@ td {
 }
 
 .btn.active {
-  background-color: #ff0000;
+  background-color: #5cb85c;
 }
 
 #decrypt-tab {
